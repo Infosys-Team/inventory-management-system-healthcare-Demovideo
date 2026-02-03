@@ -12,7 +12,7 @@ Backend: Spring Boot (Java)
 
 Database: MySQL
 
-Tools: GitHub, Google Drive (for demo video)
+
 
 🔑 Key Features
 
